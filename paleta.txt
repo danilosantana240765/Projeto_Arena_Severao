@@ -1,0 +1,13 @@
+---- Paleta de cor ----
+#038C33 
+#F2B366
+#F2935C
+#F27052
+#F2F2F2
+
+--- Gradiente -----
+#D1D1D1
+#A1A29D
+#AF5936
+#7A703D
+#FDFDFD
